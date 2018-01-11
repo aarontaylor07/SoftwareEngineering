@@ -1,2 +1,2 @@
 # SoftwareEngineering
-Project for Software Engineering, to create a website for student information.
+Project for snoah Engineering, to create a website for student information.
