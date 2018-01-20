@@ -1,7 +1,7 @@
 import React from 'react';
 import { Route, Switch, Link } from 'react-router-dom';
 import { IndexPage } from './IndexPage';
-import { studentPage } from './StudentPage';
+import { StudentPage } from './StudentPage';
 import { NotFoundPage } from './NotFoundPage';
 import students from '../data/students';
 
@@ -15,7 +15,7 @@ const renderStudent = ({ match, staticContext }) => {
   {
     return <NotFoundPage staticContext={staticContext} />;
   }
-  return <studentPage student={student} students={students} />;
+  return <StudentPage student={student} students={students} />;
 };
 
 // app is an arrow function bc i'm lazy and have used these lines forever

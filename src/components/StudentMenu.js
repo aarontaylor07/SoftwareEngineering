@@ -1,7 +1,7 @@
 import React from 'react';
 import { Route, Link } from 'react-router-dom';
 
-const studentMenuLink = ({ id, to, label }) => (
+const StudentMenuLink = ({ id, to, label }) => (
   <Route path={`/student/${id}`}>
     {({ match }) => (
       <Link 

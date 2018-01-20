@@ -1,11 +1,12 @@
 import React from 'react';
-import { studentLink } from './StudentLink';
+import { StudentLink } from './StudentLink';
 
 export const IndexPage = ({ students }) => (
   <div className="home">
+  <h2><strong>Listing of Students</strong></h2>
     <div className="students-selector">
       {students.map(
-        studentData => <studentLink key={studentData.id} {...studentData} />,
+        studentData => <StudentLink key={studentData.id} {...studentData} />,
       )}
     </div>
   </div>

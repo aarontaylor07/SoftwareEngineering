@@ -61,6 +61,10 @@ footer p {
   font-weight: bold;
 }
 
+.home {
+  text-align: center;
+}
+
 .home .students-selector {
   clear: both;
   padding: 2em;

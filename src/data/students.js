@@ -1,15 +1,27 @@
 const students = [
     {
-        'id': 'gentlemenProfessional',
-        'name': 'Gentlemen Professional',
+        'id': 'hargWonder',
+        'name': 'Harg Wonder',
         'highschool': 'C.E. Byrd High School',
         'classification': 'Senior',
         'degree' : 'Cyber Engineering',
         'experience' : '2 Years',
-        'image': 'gentlemenProfessional.png',
+        'graduationDate' : 'May 2018',
+        'image': 'hargWonder.png',
         'cover': 'laTechCOES.png',
-        'description' : 'It is Wednesday, my dudes'
+        
+    },
+    {
+        'id' : 'cuteLamink',
+        'name' : 'Cute Lamink',
+        'classification': 'Junior',
+        'degree' : 'Computer Science',
+        'experience' : '1 Year',
+        'graduationDate' : 'November 2019',
+        'image': 'cuteLamink.png',
+        'cover': 'laTechCOES.png',
     }
+
 ]
 
 export default students;
