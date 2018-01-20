@@ -1,1 +1,4 @@
 node_modules
+.babel_cache
+src/server-es5.js
+src/node_modules

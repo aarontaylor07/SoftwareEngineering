@@ -6,8 +6,9 @@ const students = [
         'classification': 'Senior',
         'degree' : 'Cyber Engineering',
         'experience' : '2 Years',
-        'image': 'gentlemenProfessional.jpg',
-        'cover': 'gentlemenProfessionalCover.jpg',
+        'image': 'gentlemenProfessional.png',
+        'cover': 'laTechCOES.png',
+        'description' : 'It is Wednesday, my dudes'
     }
 ]
 

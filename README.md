@@ -5,3 +5,6 @@ Data on students is mocked up and names of students are generated using the Wu-T
 
 #Authors
 Noah Dillard, Skylar King, Carl Perez, Aaron Taylor
+
+#Credits
+https://scotch.io/tutorials/react-on-the-server-for-beginners-build-a-universal-react-and-node-app
