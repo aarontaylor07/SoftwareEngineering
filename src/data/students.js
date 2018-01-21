@@ -20,7 +20,7 @@ const students = [
         'graduationdate' : 'november 2019',
         'image': 'cutelamink.png',
         'cover': 'latechcoes.png',
-    }
+    },
     {
         'id' : 'joesmith',
         'name' : 'Joe Smith',
@@ -28,7 +28,6 @@ const students = [
         'degree' : 'Mathematics',
         'experience' : '2 Years',
         'graduationdate' : 'July 2018',
-        #'image': 'cutelamink.png',
         'cover': 'latechcoes.png',
     }
 
