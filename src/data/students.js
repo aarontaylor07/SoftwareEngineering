@@ -17,7 +17,7 @@ const students = [
         'classification': 'junior',
         'degree' : 'computer science',
         'experience' : '1 year',
-        'graduationdate' : 'november 2019',
+        'graduationDate' : 'november 2019',
         'image': 'cutelamink.png',
         'cover': 'latechcoes.png',
     },
@@ -27,7 +27,7 @@ const students = [
         'classification': 'Senior',
         'degree' : 'Mathematics',
         'experience' : '2 Years',
-        'graduationdate' : 'July 2018',
+        'graduationDate' : 'July 2018',
         'cover': 'latechcoes.png',
     }
 
