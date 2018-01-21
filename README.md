@@ -3,6 +3,9 @@ Node and React JS Project for Engineering, to create a website for student infor
 
 Data on students is mocked up and names of students are generated using the Wu-Tang Names Generator.
 
+#To Run
+run "npm install" then "npm start" from the root project directory, then you should be able to access at http://localhost:3000/
+
 #Authors
 Noah Dillard, Skylar King, Carl Perez, Aaron Taylor
 
