@@ -12,15 +12,26 @@ const students = [
         
     },
     {
-        'id' : 'cuteLamink',
-        'name' : 'Cute Lamink',
-        'classification': 'Junior',
-        'degree' : 'Computer Science',
-        'experience' : '1 Year',
-        'graduationDate' : 'November 2019',
-        'image': 'cuteLamink.png',
-        'cover': 'laTechCOES.png',
+        'id' : 'cutelamink',
+        'name' : 'cute lamink',
+        'classification': 'junior',
+        'degree' : 'computer science',
+        'experience' : '1 year',
+        'graduationdate' : 'november 2019',
+        'image': 'cutelamink.png',
+        'cover': 'latechcoes.png',
     }
+    {
+        'id' : 'joesmith',
+        'name' : 'Joe Smith',
+        'classification': 'Senior',
+        'degree' : 'Mathematics',
+        'experience' : '2 Years',
+        'graduationdate' : 'July 2018',
+        #'image': 'cutelamink.png',
+        'cover': 'latechcoes.png',
+    }
+
 
 ]
 
