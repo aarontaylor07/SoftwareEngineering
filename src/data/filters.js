@@ -1,15 +1,16 @@
 const filters = [
   {
-    'Cyber Engineering' 
+    'filterselection': 'Cyber Engineering' 
+   
   },
   {
-    'Chemistry'
+    'filterselection': 'Chemistry'
   },
   {
-    'Mathematics'
+    'filterselection': 'Mathematics'
   },
   {
-    'Computer Science',
+    'filterselection': 'Computer Science',
   }
 ]
 
