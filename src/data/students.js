@@ -29,6 +29,7 @@ const students = [
         'experience' : '2 Years',
         'graduationDate' : 'July 2018',
         'cover': 'latechcoes.png',
+        'image': 'joesmith.png',
     },
     {
         'id' : 'Heisenberg',
@@ -41,13 +42,14 @@ const students = [
         'image': 'heisenberg.jpg',
     },
     {
-        'id' : 'lilnono4life',
-        'name' : 'No Diggity',
+        'id' : 'CapNCook',
+        'name' : 'Jesse Pinkman',
         'classification': 'Senior',
         'degree' : 'Cyber Engineering',
         'experience' : '32 Years',
         'graduationDate' : 'July 2018',
         'cover': 'latechcoes.png',
+        'image': 'capncook.png'
     }
 
 
