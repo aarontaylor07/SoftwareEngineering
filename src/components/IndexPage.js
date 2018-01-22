@@ -9,6 +9,7 @@ export const IndexPage = ({ students }) => (
         studentData => <StudentLink key={studentData.id} {...studentData} />,
       )}
     </div>
+        <div><p>HEllo</p></div>
   </div>
 );
 
