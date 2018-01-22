@@ -14,6 +14,8 @@ export const StudentPage = ({ student, students }) => {
           <h2 className="name">{student.name}</h2>
         </div>
         <section className="description">
+          Name : {student.name}<br />
+          User ID : {student.id}<br />
           Major : {student.degree}<br />
           Classification : {student.classification}<br />
           Graduation Date : {student.graduationDate}<br />
