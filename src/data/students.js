@@ -30,7 +30,16 @@ const students = [
         'graduationDate' : 'July 2018',
         'cover': 'latechcoes.png',
     },
-     {
+    {
+        'id' : 'Heisenberg',
+        'name' : 'Walter White',
+        'classification': 'Junior',
+        'degree' : 'Chemistry',
+        'experience' : '2 Years',
+        'graduationDate' : 'May 2019',
+        'cover': 'latechcoes.png',
+    },
+    {
         'id' : 'lilnono4life',
         'name' : 'No Diggity',
         'classification': 'Senior',
