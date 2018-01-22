@@ -38,7 +38,7 @@ const students = [
         'experience' : '2 Years',
         'graduationDate' : 'May 2019',
         'cover': 'latechcoes.png',
-        'image': 'heisenberg.jpeg',
+        'image': 'heisenberg.jpg',
     },
     {
         'id' : 'lilnono4life',
