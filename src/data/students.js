@@ -29,6 +29,15 @@ const students = [
         'experience' : '2 Years',
         'graduationDate' : 'July 2018',
         'cover': 'latechcoes.png',
+    },
+     {
+        'id' : 'lilnono4life',
+        'name' : 'No Diggity',
+        'classification': 'Senior',
+        'degree' : 'Cyber Engineering',
+        'experience' : '32 Years',
+        'graduationDate' : 'July 2018',
+        'cover': 'latechcoes.png',
     }
 
 
