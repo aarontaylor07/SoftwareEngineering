@@ -62,7 +62,7 @@ const students = [
     },
     {
         'id': 'cherry',
-        'name': 'Post Malone",
+        'name': 'Post Malone',
         'classification': 'Sophomore',
         'degree': 'Computer Science',
         'experience': '20 Years',
