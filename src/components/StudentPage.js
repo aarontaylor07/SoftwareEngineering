@@ -18,7 +18,7 @@ export const StudentPage = ({ student, students }) => {
           Classification : {student.classification}<br />
           Graduation Date : {student.graduationDate}<br />
           Experience : {student.experience} <br />
-          <img alt={`${student.name}'s profile`} src={`/resumes/${student.resume}`} /><br />
+          <img alt={`${student.name}'s resume`} src={`/resumes/${student.resume}`} /><br />
         </section>
       </div>
       <br />
