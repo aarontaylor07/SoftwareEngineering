@@ -11,10 +11,6 @@ export const IndexPage = ({ students }) => (
       )}
     </div>
         <h2><strong>Filter By Major</strong></h2>
-    
-    </div>
-        
-       
   </div>
 );
 
