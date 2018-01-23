@@ -10,7 +10,7 @@ export const IndexPage = ({ students }) => (
         studentData => <StudentLink key={studentData.id} {...studentData} />,
       )}
     </div>
-      //  <h2><strong>Filter By Major</strong></h2>
+       <h2><strong>Filter By Major</strong></h2>
   </div>
 );
 
