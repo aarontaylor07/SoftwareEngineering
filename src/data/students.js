@@ -9,8 +9,7 @@ const students = [
         'graduationDate' : 'May 2018',
         'image': 'hargWonder.png',
         'cover': 'laTechCOES.png',
-        'resume': 'a.jpg'
-        
+        'resume': 'hwResume.png'
     },
     {
         'id' : 'cutelamink',
@@ -19,9 +18,9 @@ const students = [
         'degree' : 'Computer Science',
         'experience' : '1 Year',
         'graduationDate' : 'november 2019',
-        'image': 'cutelamink.png',
-        'cover': 'latechcoes.png',
-        'resume': 'b.png'
+        'image': 'cuteLamink.png',
+        'cover': 'laTechCOES.png',
+        'resume': 'clResume.png'
     },
     {
         'id' : 'joesmith',
@@ -32,7 +31,7 @@ const students = [
         'graduationDate' : 'July 2018',
         'cover': 'laTechCOES.png',
         'image': 'joesmith.jpg',
-        'resume': 'c.png'
+        'resume': 'jsResume.png'
     },
     {
         'id' : 'heisenberg',
@@ -43,7 +42,7 @@ const students = [
         'graduationDate' : 'May 2019',
         'cover': 'laTechCOES.png',
         'image': 'heisenberg.jpg',
-        'resume': 'a.jpg'
+        'resume': 'hbResume.png'
     },
     {
         'id' : 'capncook',
@@ -52,9 +51,9 @@ const students = [
         'degree' : 'Cyber Engineering',
         'experience' : '32 Years',
         'graduationDate' : 'July 2018',
-        'cover': 'latechcoes.png',
+        'cover': 'laTechCOES.png',
         'image': 'jesse.png',
-        'resume': 'b.png'
+        'resume': 'cncResume.png'
     }
 ]
 

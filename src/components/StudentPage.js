@@ -13,13 +13,14 @@ export const StudentPage = ({ student, students }) => {
           <img alt={`${student.name}'s profile`} src={`/img/${student.image}`} />
           <h2 className="name">{student.name}</h2>
         </div>
-        <section className="description">
-          Major : {student.degree}<br />
-          Classification : {student.classification}<br />
-          Graduation Date : {student.graduationDate}<br />
-          Experience : {student.experience} <br />
+        <div className="description">
+          <strong>Major : </strong>{student.degree}<br />
+          <strong>Classification : </strong>{student.classification}<br />
+          <strong>Graduation Date : </strong>{student.graduationDate}<br />
+          <strong>Experience : </strong>{student.experience} <br />
+          <strong>Resume : </strong><br />
           <img alt={`${student.name}'s resume`} src={`/resumes/${student.resume}`} /><br />
-        </section>
+        </div>
       </div>
       <br />
       <div className="navigateBack">

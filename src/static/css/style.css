@@ -104,6 +104,7 @@ button:hover {
 .home .students-selector .student-preview img {
   margin: 0;
   width: 100%;
+  height: 250px;
 }
 
 .home .students-selector .student-preview .name {
@@ -117,20 +118,6 @@ button:hover {
   text-overflow: ellipsis;
   white-space: nowrap;
   width: 100%;
-}
-
-.home .students-selector .student-preview .medals-count {
-  background: #fff;
-  border-radius: 2px;
-  display: inline-block;
-  font-weight: bold;
-  margin: .2em;
-  padding: .2em .4em;
-  position: absolute;
-  right: 0;
-  text-align: center;
-  top: 0;
-  vertical-align: middle;
 }
 
 nav.students-menu {
@@ -157,6 +144,7 @@ nav.students-menu a.active {
   margin: 0 auto;
   max-width: 800px;
   width: 100%;
+  padding : 15px;
 }
 
 .student header {
@@ -189,6 +177,7 @@ nav.students-menu a.active {
   padding: 0 0 0 .5em;
   width: auto;
 }
+
 
 .navigateBack {
   font-size: 1.6em;
