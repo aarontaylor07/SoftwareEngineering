@@ -9,14 +9,23 @@ const students = [
         'graduationDate' : 'May 2018',
         'image': 'hargWonder.png',
         'cover': 'laTechCOES.png',
+<<<<<<< HEAD
         'resume': 'hwResume.png'
+=======
+        'resume': 'a.jpg',
+	'certifications': 
+	[
+	  {'Cert Title': 'CCNA', 'Year': '2018'},
+	  {'Cert Title': 'Security+', 'Year': '2017'},
+	],
+>>>>>>> 7fd4f5ee8c3d5a9d4507e59dd9e18e6414e1202e
     },
     {
         'id' : 'cutelamink',
-        'name' : 'Cute Lamink',
-        'classification': 'Junior',
-        'degree' : 'Computer Science',
-        'experience' : '1 Year',
+        'name' : 'cute lamink',
+        'classification': 'junior',
+        'degree' : 'computer science',
+        'experience' : '1 year',
         'graduationDate' : 'november 2019',
         'image': 'cuteLamink.png',
         'cover': 'laTechCOES.png',
@@ -29,23 +38,23 @@ const students = [
         'degree' : 'Mathematics',
         'experience' : '2 Years',
         'graduationDate' : 'July 2018',
-        'cover': 'laTechCOES.png',
-        'image': 'joesmith.jpg',
+        'cover': 'latechcoes.png',
+        'image': 'joeSmith.jpg',
         'resume': 'jsResume.png'
     },
     {
-        'id' : 'heisenberg',
+        'id' : 'Heisenberg',
         'name' : 'Walter White',
         'classification': 'Junior',
         'degree' : 'Chemistry',
         'experience' : '2 Years',
         'graduationDate' : 'May 2019',
-        'cover': 'laTechCOES.png',
+        'cover': 'latechcoes.png',
         'image': 'heisenberg.jpg',
         'resume': 'hbResume.png'
     },
     {
-        'id' : 'capncook',
+        'id' : 'CapNCook',
         'name' : 'Jesse Pinkman',
         'classification': 'Senior',
         'degree' : 'Cyber Engineering',
@@ -54,6 +63,17 @@ const students = [
         'cover': 'laTechCOES.png',
         'image': 'jesse.png',
         'resume': 'cncResume.png'
+    },
+    {
+        'id': 'cherry',
+        'name': 'Post Malone',
+        'classification': 'Sophomore',
+        'degree': 'Computer Science',
+        'experience': '20 Years',
+        'graduationDate': 'May 2020',
+        'cover': 'laTechCOES.png',
+        'image': 'cherryKevin.jpg',
+        'resume': 'pmResume.png'
     }
 ]
 
