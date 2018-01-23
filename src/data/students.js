@@ -1,4 +1,4 @@
-cnst students = [
+const students = [
     {
         'id': 'hargWonder',
         'name': 'Harg Wonder',
