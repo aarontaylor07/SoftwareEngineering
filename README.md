@@ -7,7 +7,7 @@ Data on students is mocked up and names of students are generated using the Wu-T
 run "npm install" then "npm start" from the root project directory, then you should be able to access at http://localhost:3000/
 
 #Authors
-Noah Dillard, Skylar King, Carl Perez, Aaron Taylor
+Noah Dillard, Skyler King, Carl Perez, Aaron Taylor
 
 #Credits
 https://scotch.io/tutorials/react-on-the-server-for-beginners-build-a-universal-react-and-node-app
