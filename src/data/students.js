@@ -9,6 +9,7 @@ const students = [
         'graduationDate' : 'May 2018',
         'image': 'hargWonder.png',
         'cover': 'laTechCOES.png',
+        'resume': 'a.jpg'
         
     },
     {
@@ -20,6 +21,7 @@ const students = [
         'graduationDate' : 'november 2019',
         'image': 'cutelamink.png',
         'cover': 'latechcoes.png',
+        'resume': 'b.png'
     },
     {
         'id' : 'joesmith',
@@ -30,6 +32,7 @@ const students = [
         'graduationDate' : 'July 2018',
         'cover': 'latechcoes.png',
         'image': 'joesmith.jpg',
+        'resume': 'c.png'
     },
     {
         'id' : 'Heisenberg',
