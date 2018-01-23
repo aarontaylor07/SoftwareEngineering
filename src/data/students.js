@@ -9,16 +9,12 @@ const students = [
         'graduationDate' : 'May 2018',
         'image': 'hargWonder.png',
         'cover': 'laTechCOES.png',
-<<<<<<< HEAD
-        'resume': 'hwResume.png'
-=======
-        'resume': 'a.jpg',
-	'certifications': 
-	[
-	  {'Cert Title': 'CCNA', 'Year': '2018'},
-	  {'Cert Title': 'Security+', 'Year': '2017'},
-	],
->>>>>>> 7fd4f5ee8c3d5a9d4507e59dd9e18e6414e1202e
+        'resume': 'hwResume.png',
+	    'certifications': 
+        [
+            {'Cert Title': 'CCNA', 'Year': '2018'},
+            {'Cert Title': 'Security+', 'Year': '2017'},
+        ],
     },
     {
         'id' : 'cutelamink',
