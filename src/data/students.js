@@ -10,6 +10,11 @@ const students = [
         'image': 'hargWonder.png',
         'cover': 'laTechCOES.png',
         'resume': 'a.jpg'
+	'certifications': 
+	[
+	  {'Cert Title': 'CCNA', 'Year': '2018'},
+	  {'Cert Title': 'Security+', 'Year': '2017'},
+	]
         
     },
     {
