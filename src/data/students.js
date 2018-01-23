@@ -18,7 +18,7 @@ const students = [
     },
     {
         'id' : 'cutelamink',
-        'name' : 'cute lamink',
+        'name' : 'Cute Lamink',
         'classification': 'junior',
         'degree' : 'computer science',
         'experience' : '1 year',
