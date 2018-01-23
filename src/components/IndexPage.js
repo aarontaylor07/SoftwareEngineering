@@ -1,5 +1,6 @@
 import React from 'react';
 import { StudentLink } from './StudentLink';
+import { filterLink } from './filterLink';
 
 export const IndexPage = ({ students }) => (
   <div className="home">
@@ -11,6 +12,10 @@ export const IndexPage = ({ students }) => (
     </div>
         
         <h2><strong>Filter By Major</strong></h2>
+          <div className="filter-selector">
+            {filters.map(
+             filterdata => <filterlink key={filterdata.filterselection} />,
+            )}
   </div>
 );
 
