@@ -14,10 +14,10 @@ const students = [
     },
     {
         'id' : 'cutelamink',
-        'name' : 'Cute Lamink',
-        'classification': 'Junior',
-        'degree' : 'Computer Science',
-        'experience' : '1 Year',
+        'name' : 'cute lamink',
+        'classification': 'junior',
+        'degree' : 'computer science',
+        'experience' : '1 year',
         'graduationDate' : 'november 2019',
         'image': 'cutelamink.png',
         'cover': 'latechcoes.png',
@@ -30,23 +30,23 @@ const students = [
         'degree' : 'Mathematics',
         'experience' : '2 Years',
         'graduationDate' : 'July 2018',
-        'cover': 'laTechCOES.png',
+        'cover': 'latechcoes.png',
         'image': 'joesmith.jpg',
         'resume': 'c.png'
     },
     {
-        'id' : 'heisenberg',
+        'id' : 'Heisenberg',
         'name' : 'Walter White',
         'classification': 'Junior',
         'degree' : 'Chemistry',
         'experience' : '2 Years',
         'graduationDate' : 'May 2019',
-        'cover': 'laTechCOES.png',
+        'cover': 'latechcoes.png',
         'image': 'heisenberg.jpg',
         'resume': 'a.jpg'
     },
     {
-        'id' : 'capncook',
+        'id' : 'CapNCook',
         'name' : 'Jesse Pinkman',
         'classification': 'Senior',
         'degree' : 'Cyber Engineering',
@@ -55,7 +55,20 @@ const students = [
         'cover': 'latechcoes.png',
         'image': 'jesse.png',
         'resume': 'b.png'
+    },
+    {
+        'id': 'cherry',
+        'name': 'Post Malone",
+        'classification': 'Sophomore',
+        'degree': 'Computer Science',
+        'experience': '20 Years',
+        'graduationDate': 'May 2020',
+        'cover': 'latechcoes.png',
+        'image': 'cherry_kevin.jpg',
+        'resume': 'c.png'
     }
+
+
 ]
 
 export default students;
