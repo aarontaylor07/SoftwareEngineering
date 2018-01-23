@@ -43,6 +43,20 @@ footer p {
   margin: 0 0 1em 0;
 }
 
+button {
+  font: caption;
+  color: #ffffff;
+  font-size: 10px;
+  background: #003087;
+  padding: 10px 15px 10px 15px;
+  text-decoration: none;
+}
+
+button:hover {
+  background: #CB333B;
+  text-decoration: none;
+}
+
 .not-found {
   margin: 0 auto;
   max-width: 800px;
@@ -165,7 +179,8 @@ nav.students-menu a.active {
   box-shadow: 0 2px 5px 0 rgba(0,0,0,0.16),0 2px 10px 0 rgba(0,0,0,0.12);
   display: inline;
   margin: 0 0 0 1em;
-  width: 200px;
+  width: auto;
+  height: 200px;
 }
 
 .student .picture-container h2 {
@@ -175,81 +190,9 @@ nav.students-menu a.active {
   width: auto;
 }
 
-.student .flag .icon {
-  display: inline-block;
-  padding-bottom: .1em;
-  width: auto;
-}
-
-.student .description,
-.student .medals {
-  font-size: 1.6em;
-  padding: 1em;
-}
-
-.student .medals p {
-  font-size: 1em;
-}
-
-.student .medals li {
-  list-style: none;
-}
-
-.student .medals .symbol {
-  border-radius: 50%;
-  display: inline-block;
-  font-size: .8em;
-  height: 1.6em;
-  justify-content: center;
-  margin: 5px;
-  text-align: center;
-  width: 1.6em;
-}
-
-.student .medals .symbol.symbol-G {
-  color: #daa520;
-  background-color: #fff6de;
-  border: 2px solid #daa520;
-}
-
-.student .medals .symbol.symbol-S {
-  color: #383738;
-  background-color: #b9b5b5;
-  border: 2px solid #383738;
-}
-
-.student .medals .symbol.symbol-B {
-  color: #6b1919;
-  background-color: #ea96a1;
-  border: 2px solid #6E1924;
-}
-
 .navigateBack {
   font-size: 1.6em;
   padding: 2em;
   text-align: center;
   text-decoration: none;
-}
-
-#abar {
-  bottom: 0;
-  left: 0;
-  position: fixed;
-  width: 100%;
-}
-
-#abar a {
-  background: #ffa500;
-  color: #000;
-  display: block;
-  font-weight: bold;
-  margin: 0;
-  padding: 1em;
-  text-align: center;
-  text-decoration: none;
-  width: 100%;
-}
-
-#abar a:hover {
-  text-decoration: underline;
 }

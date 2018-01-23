@@ -8,18 +8,17 @@ const students = [
         'experience' : '2 Years',
         'graduationDate' : 'May 2018',
         'image': 'hargWonder.png',
-        'cover': 'laTechCOES.png',
-        
+        'cover': 'laTechCOES.png',  
     },
     {
         'id' : 'cutelamink',
-        'name' : 'cute lamink',
-        'classification': 'junior',
-        'degree' : 'computer science',
-        'experience' : '1 year',
+        'name' : 'Cute Lamink',
+        'classification': 'Junior',
+        'degree' : 'Computer Science',
+        'experience' : '1 Year',
         'graduationDate' : 'november 2019',
-        'image': 'cutelamink.png',
-        'cover': 'latechcoes.png',
+        'image': 'cuteLamink.png',
+        'cover': 'laTechCOES.png',
     },
     {
         'id' : 'joesmith',
@@ -28,31 +27,29 @@ const students = [
         'degree' : 'Mathematics',
         'experience' : '2 Years',
         'graduationDate' : 'July 2018',
-        'cover': 'latechcoes.png',
+        'cover': 'laTechCOES.png',
         'image': 'joesmith.jpg',
     },
     {
-        'id' : 'Heisenberg',
+        'id' : 'heisenberg',
         'name' : 'Walter White',
         'classification': 'Junior',
         'degree' : 'Chemistry',
         'experience' : '2 Years',
         'graduationDate' : 'May 2019',
-        'cover': 'latechcoes.png',
+        'cover': 'laTechCOES.png',
         'image': 'heisenberg.jpg',
     },
     {
-        'id' : 'CapNCook',
+        'id' : 'capncook',
         'name' : 'Jesse Pinkman',
         'classification': 'Senior',
         'degree' : 'Cyber Engineering',
         'experience' : '32 Years',
         'graduationDate' : 'July 2018',
-        'cover': 'latechcoes.png',
+        'cover': 'laTechCOES.png',
         'image': 'jesse.png'
     }
-
-
 ]
 
 export default students;

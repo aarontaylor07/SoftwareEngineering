@@ -8,7 +8,9 @@ const StudentMenuLink = ({ id, to, label }) => (
         to={to} 
         className={match ? 'active' : ''}
       >
-        {label}
+        <button>
+          {label}
+        </button>
       </Link>
     )}
   </Route>
@@ -22,7 +24,7 @@ export const StudentMenu = ({ students }) => (
           key={student.id} 
           id={student.id} 
           to={`/student/${student.id}`} 
-          label={student.name} />,
+          label={` ${student.name} ` }/>,
       )
     }
   </nav>
