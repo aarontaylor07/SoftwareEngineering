@@ -9,8 +9,8 @@ export const IndexPage = ({ students }) => (
       {students.map(
         studentData => <StudentLink key={studentData.id} {...studentData} />,
       )}
-     </div>
-         <h2><strong>Filter By Major</strong></h2>
+    </div>
+        <h2><strong>Filter By Major</strong></h2>
     
     </div>
         
