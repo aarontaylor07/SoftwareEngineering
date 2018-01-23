@@ -43,6 +43,7 @@ const students = [
         'graduationDate' : 'May 2019',
         'cover': 'latechcoes.png',
         'image': 'heisenberg.jpg',
+        'resume': 'a.jpg'
     },
     {
         'id' : 'CapNCook',
@@ -52,7 +53,8 @@ const students = [
         'experience' : '32 Years',
         'graduationDate' : 'July 2018',
         'cover': 'latechcoes.png',
-        'image': 'jesse.png'
+        'image': 'jesse.png',
+        'resume': 'b.png'
     }
 
 
