@@ -4,7 +4,7 @@ import { IndexPage } from './IndexPage';
 import { StudentPage } from './StudentPage';
 import { NotFoundPage } from './NotFoundPage';
 import students from '../data/students';
-import filters from '../data/filters';
+
 
 // render index, student, and not found pages
 // match a select id to a student, otherwise go to 404 page
@@ -18,17 +18,7 @@ const renderStudent = ({ match, staticContext }) => {
   }
   return <StudentPage student={student} students={students} />;
 };
-//same as above but for filtering
-const renderIndex = () => <IndexPage filters={filters} />;
-const renderfilter = ({ match, staticContext }) => {
-  const filterselection = match.params.filterselection;
-  const filter = filters.find(current => current.filterselection === filterselection);
-  if (filter == null) 
-  {
-    return <NotFoundPage staticContext={staticContext} />;
-  }
-  return <filterPage filter={filter} filters={filters} />;
-};
+
 
 // app is an arrow function bc i'm lazy and have used these lines forever
 // also put header and footer in here, bc lazy
