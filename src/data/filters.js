@@ -1,17 +1,18 @@
 const filters = [
   {
-    'filterselection': 'Cyber Engineering' 
-   
+    'name': 'Cyber Engineering' 
   },
   {
-    'filterselection': 'Chemistry'
+    'name': 'Mathematics' 
   },
   {
-    'filterselection': 'Mathematics'
+    'name': 'Chemistry' 
   },
   {
-    'filterselection': 'Computer Science',
+    'name': 'Computer Science' 
   }
+ 
+
 ]
 
 export default filters;
