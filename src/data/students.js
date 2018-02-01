@@ -61,14 +61,14 @@ const students = [
         'resume': 'cncResume.png'
     },
     {
-        'id': 'cherry',
+        'id': 'postmalone',
         'name': 'Post Malone',
         'classification': 'Sophomore',
         'degree': 'Computer Science',
         'experience': '20 Years',
         'graduationDate': 'May 2020',
         'cover': 'laTechCOES.png',
-        'image': 'cherryKevin.jpg',
+        'image': 'post_malone.jpg',
         'resume': 'pmResume.png'
     }
 ]
